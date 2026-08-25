@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KABI1212/Leetcode/tree/master/0002-add-two-numbers) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KABI1212/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
