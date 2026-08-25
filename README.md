@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KABI1212/Leetcode/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [2404-most-frequent-even-element](https://github.com/KABI1212/Leetcode/tree/master/2404-most-frequent-even-element) |
+## Hash Table
+|  |
+| ------- |
+| [2404-most-frequent-even-element](https://github.com/KABI1212/Leetcode/tree/master/2404-most-frequent-even-element) |
+## Counting
+|  |
+| ------- |
+| [2404-most-frequent-even-element](https://github.com/KABI1212/Leetcode/tree/master/2404-most-frequent-even-element) |
 <!---LeetCode Topics End-->
